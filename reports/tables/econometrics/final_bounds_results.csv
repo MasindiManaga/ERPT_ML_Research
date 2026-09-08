@@ -1,0 +1,93 @@
+SubclassDescription,Model,Bounds_Statistic,Lower_Bound_5pct,Upper_Bound_5pct,Lower_P_Value,Upper_P_Value,Decision,Observations,Exact_Decision,Final_Decision,Decision_Method
+Baby food,ARDL,0.9401533229048917,3.8022629,4.8116858,0.7211009363103336,0.8737653195239794,No cointegration,99,,No cointegration,Asymptotic
+Bread and bakery products,ARDL,0.5681161592963265,3.8022629,4.8116858,0.8640230415435426,0.9502362619101719,No cointegration,99,,No cointegration,Asymptotic
+Breakfast cereals,ARDL,0.3746190389661494,3.8022629,4.8116858,0.9279659845479729,0.9763437606822685,No cointegration,99,,No cointegration,Asymptotic
+Cereals,ARDL,5.2539065013361474,3.8022629,4.8116858,0.008950070868593674,0.03134278168375715,Cointegration,99,Inconclusive,Inconclusive,Sample-specific
+Cheese,ARDL,2.0810910727577827,3.8022629,4.8116858,0.30097682430734085,0.518047560591816,No cointegration,99,,No cointegration,Asymptotic
+"Chocolate, cocoa, and cocoa-based food products",ARDL,7.502410626276004,3.8022629,4.8116858,0.0005850506772703268,0.002639877338976304,Cointegration,99,Cointegration,Cointegration,Sample-specific
+Coffee and coffee substitutes,ARDL,4.413718084014299,3.8022629,4.8116858,0.024300879056912472,0.07396889146746399,Inconclusive,99,No cointegration,No cointegration,Sample-specific
+"Dates, figs and tropical fruits, fresh",ARDL,4.3800684990412595,3.8022629,4.8116858,0.025279339743781715,0.07646764063319256,Inconclusive,99,No cointegration,No cointegration,Sample-specific
+Eggs,ARDL,3.284518588764063,3.8022629,4.8116858,0.08813664486659545,0.210996786240905,No cointegration,99,,No cointegration,Asymptotic
+Fish,ARDL,0.24161470567073412,3.8022629,4.8116858,0.9633874790119036,0.9886108193841159,No cointegration,99,,No cointegration,Asymptotic
+Fish preparations,ARDL,0.0811445613863862,3.8022629,4.8116858,0.992781474326183,0.9977890826103292,No cointegration,99,,No cointegration,Asymptotic
+Flour of cereals,ARDL,1.1655520877161598,3.8022629,4.8116858,0.6226940694281726,0.8138179240651714,No cointegration,99,,No cointegration,Asymptotic
+Fruit and nuts ground and other preparations,ARDL,0.8843598511825816,3.8022629,4.8116858,0.743159060816647,0.8872086020230072,No cointegration,99,,No cointegration,Asymptotic
+Fruit and vegetable juices,ARDL,0.021599572987472455,3.8022629,4.8116858,0.9989790922941152,0.9997941365564579,No cointegration,99,,No cointegration,Asymptotic
+"Fruit-bearing vegetables, fresh or chilled",ARDL,2.503394666818911,3.8022629,4.8116858,0.2006066243108109,0.3909667553516105,No cointegration,99,,No cointegration,Asymptotic
+"Ice, ice cream and sorbet",ARDL,0.263629416514012,3.8022629,4.8116858,0.9581331426153376,0.9868891760319549,No cointegration,99,,No cointegration,Asymptotic
+"Leafy or stem vegetables, fresh or chilled",ARDL,1.3832900466852776,3.8022629,4.8116858,0.5366008087864279,0.7494660776615334,No cointegration,99,,No cointegration,Asymptotic
+"Macaroni, noodles, couscous and similar pasta products",ARDL,3.592107929780127,3.8022629,4.8116858,0.06260363655312917,0.16104406213907707,No cointegration,99,,No cointegration,Asymptotic
+Margarine and similar preparations,ARDL,0.6170043948052141,3.8022629,4.8116858,0.8462488435079688,0.9420857940935773,No cointegration,99,,No cointegration,Asymptotic
+"Meat , dried, salted, in brine or smoked",ARDL,0.6424869135175271,3.8022629,4.8116858,0.8367976162568561,0.9375949996569963,No cointegration,99,,No cointegration,Asymptotic
+"Meat, fresh, chilled or frozen",ARDL,0.14958861141851731,3.8022629,4.8116858,0.9823001813706611,0.9945615223634152,No cointegration,99,,No cointegration,Asymptotic
+"Meat, offal, blood and other parts of slaughtered animals preparations",ARDL,1.4234562860721105,3.8022629,4.8116858,0.5210879606401675,0.7371291947908623,No cointegration,99,,No cointegration,Asymptotic
+Milk,ARDL,3.354062790720931,3.8022629,4.8116858,0.08163702922576421,0.19872827628634915,No cointegration,99,,No cointegration,Asymptotic
+Milk-based desserts and beverages,ARDL,1.2049835905930553,3.8022629,4.8116858,0.6069518613582818,0.8025491687380352,No cointegration,99,,No cointegration,Asymptotic
+"Nut puree, nut butter and nut pastes",ARDL,4.880924415407208,3.8022629,4.8116858,0.013982720635711932,0.04618052293350183,Cointegration,99,No cointegration,No cointegration,Sample-specific
+"Offal, blood and other parts of slaughtered animals",ARDL,2.230361322542176,3.8022629,4.8116858,0.26179366054827535,0.47126574764179663,No cointegration,99,,No cointegration,Asymptotic
+Other food products n.e.c.,ARDL,0.4937254522819753,3.8022629,4.8116858,0.8899792400848824,0.9614439015923132,No cointegration,99,,No cointegration,Asymptotic
+"Other fruits, fresh",ARDL,3.8812423829508953,3.8022629,4.8116858,0.045082211979851294,0.12351817643891327,Inconclusive,99,No cointegration,No cointegration,Sample-specific
+Other milk and cream,ARDL,3.6094515586170894,3.8022629,4.8116858,0.06139326569268522,0.15854823909695925,No cointegration,99,,No cointegration,Asymptotic
+Other non-alcoholic beverages,ARDL,0.6062572504653299,3.8022629,4.8116858,0.8501984791927084,0.9439302343919417,No cointegration,99,,No cointegration,Asymptotic
+"Other sugar, confectionery and dessert",ARDL,2.3915036637842877,3.8022629,4.8116858,0.22409171473977596,0.42293638774825826,No cointegration,99,,No cointegration,Asymptotic
+"Other vegetables, fresh or chilled",ARDL,7.372385536214139,3.8022629,4.8116858,0.0006852763130658079,0.003059039006317321,Cointegration,99,Cointegration,Cointegration,Sample-specific
+Pulses,ARDL,4.786498043373767,3.8022629,4.8116858,0.015644970977397255,0.05086389872435848,Inconclusive,99,No cointegration,No cointegration,Sample-specific
+Ready-made food,ARDL,0.13905147691127168,3.8022629,4.8116858,0.9841256708708015,0.9951210963056046,No cointegration,99,,No cointegration,Asymptotic
+"Salt, condiments and sauces",ARDL,0.02320791447950814,3.8022629,4.8116858,0.9988560199188969,0.9997569653720468,No cointegration,99,,No cointegration,Asymptotic
+Soft drinks,ARDL,0.6851603591408741,3.8022629,4.8116858,0.8207277102851305,0.9297095972745497,No cointegration,99,,No cointegration,Asymptotic
+"Spices, culinary herbs and seeds",ARDL,0.21847973867493417,3.8022629,4.8116858,0.9686190866640093,0.9902929594594047,No cointegration,99,,No cointegration,Asymptotic
+"Stone fruits and pome fruits, fresh",ARDL,0.5920141324552086,3.8022629,4.8116858,0.8553972996969874,0.9463290312038454,No cointegration,99,,No cointegration,Asymptotic
+Sugar,ARDL,5.502255693432998,3.8022629,4.8116858,0.006637920344042092,0.02409829341306191,Cointegration,99,Inconclusive,Inconclusive,Sample-specific
+Tea and other plant products for infusion,ARDL,1.3434846308475692,3.8022629,4.8116858,0.5521220310269339,0.7615741612846842,No cointegration,99,,No cointegration,Asymptotic
+Tubers,ARDL,3.533379975497203,3.8022629,4.8116858,0.06687033467211567,0.16974077644593466,No cointegration,99,,No cointegration,Asymptotic
+Vegetable oils,ARDL,0.6182026344644493,3.8022629,4.8116858,0.8458071013638303,0.941878322662992,No cointegration,99,,No cointegration,Asymptotic
+Vegetables and pulses ground and other preparations,ARDL,0.7683065580496848,3.8022629,4.8116858,0.7887319919230721,0.9130724376364637,No cointegration,99,,No cointegration,Asymptotic
+"Vegetables, tubers, plantains and cooking bananas, frozen",ARDL,3.5350172252047565,3.8022629,4.8116858,0.06674778427079142,0.16949313029150037,No cointegration,99,,No cointegration,Asymptotic
+Water,ARDL,0.7104256027786002,3.8022629,4.8116858,0.8110896213539416,0.924829379824575,No cointegration,99,,No cointegration,Asymptotic
+Yoghurt and similar products,ARDL,7.2955989314085885,3.8022629,4.8116858,0.000752369490042315,0.0033366272899302274,Cointegration,99,Cointegration,Cointegration,Sample-specific
+Baby food,NARDL,2.4275527126465035,3.2290217,4.3222818,0.1492467919993551,0.3837948933427232,No cointegration,99,,No cointegration,Asymptotic
+Bread and bakery products,NARDL,2.5093304946889945,3.2290217,4.3222818,0.13422539558555058,0.35784730189312286,No cointegration,99,,No cointegration,Asymptotic
+Breakfast cereals,NARDL,1.9228005108146506,3.2290217,4.3222818,0.27615945858454216,0.5672635556482317,No cointegration,99,,No cointegration,Asymptotic
+Cereals,NARDL,6.620569708028275,3.2290217,4.3222818,0.00025854664986524334,0.002164792499848578,Cointegration,99,Cointegration,Cointegration,Sample-specific
+Cheese,NARDL,2.6603252970129763,3.2290217,4.3222818,0.10991803562896019,0.3127800468379446,No cointegration,99,,No cointegration,Asymptotic
+"Chocolate, cocoa, and cocoa-based food products",NARDL,6.235160100546159,3.2290217,4.3222818,0.0004785221872807277,0.003765031151363174,Cointegration,99,Cointegration,Cointegration,Sample-specific
+Coffee and coffee substitutes,NARDL,4.032052099548574,3.2290217,4.3222818,0.015188301453026076,0.07139133728004565,Inconclusive,99,Inconclusive,Inconclusive,Sample-specific
+"Dates, figs and tropical fruits, fresh",NARDL,9.173770090621211,3.2290217,4.3222818,4.446901709531659e-06,4.863909039487524e-05,Cointegration,99,Cointegration,Cointegration,Sample-specific
+Eggs,NARDL,2.4455939189530302,3.2290217,4.3222818,0.145814201065957,0.37798155690981794,No cointegration,99,,No cointegration,Asymptotic
+Fish,NARDL,2.743821157708742,3.2290217,4.3222818,0.09822226354153596,0.2895169750782466,No cointegration,99,,No cointegration,Asymptotic
+Fish preparations,NARDL,1.3486332663665286,3.2290217,4.3222818,0.504445540263073,0.7840441417242567,No cointegration,99,,No cointegration,Asymptotic
+Flour of cereals,NARDL,1.8268307871940983,3.2290217,4.3222818,0.30765565827010266,0.6045638916955958,No cointegration,99,,No cointegration,Asymptotic
+Fruit and nuts ground and other preparations,NARDL,2.0214936294055192,3.2290217,4.3222818,0.24631833385731006,0.5292823698063409,No cointegration,99,,No cointegration,Asymptotic
+Fruit and vegetable juices,NARDL,1.1398051873783062,3.2290217,4.3222818,0.604361447940347,0.8513655793213446,No cointegration,99,,No cointegration,Asymptotic
+"Fruit-bearing vegetables, fresh or chilled",NARDL,8.34641237348687,3.2290217,4.3222818,1.6474013727507675e-05,0.0001692144856181299,Cointegration,99,Cointegration,Cointegration,Sample-specific
+"Ice, ice cream and sorbet",NARDL,0.6426306419259346,3.2290217,4.3222818,0.8450693299317541,0.9614249961711996,No cointegration,99,,No cointegration,Asymptotic
+"Leafy or stem vegetables, fresh or chilled",NARDL,3.873129530148852,3.2290217,4.3222818,0.019313153074936196,0.08635220621013828,Inconclusive,99,No cointegration,No cointegration,Sample-specific
+"Macaroni, noodles, couscous and similar pasta products",NARDL,3.150276641742098,3.2290217,4.3222818,0.05580136657467061,0.19354662110056053,No cointegration,99,,No cointegration,Asymptotic
+Margarine and similar preparations,NARDL,2.6993592361724565,3.2290217,4.3222818,0.10430428692637217,0.3017549635263661,No cointegration,99,,No cointegration,Asymptotic
+"Meat , dried, salted, in brine or smoked",NARDL,0.8929097628590922,3.2290217,4.3222818,0.727348362610517,0.9158062129620352,No cointegration,99,,No cointegration,Asymptotic
+"Meat, fresh, chilled or frozen",NARDL,2.0115248006200592,3.2290217,4.3222818,0.24921607051311068,0.5330923548715218,No cointegration,99,,No cointegration,Asymptotic
+"Meat, offal, blood and other parts of slaughtered animals preparations",NARDL,2.286465104737565,3.2290217,4.3222818,0.17853630891880645,0.43145275803838723,No cointegration,99,,No cointegration,Asymptotic
+Milk,NARDL,4.057680726581541,3.2290217,4.3222818,0.014608326895470203,0.06920820120437954,Inconclusive,99,Inconclusive,Inconclusive,Sample-specific
+Milk-based desserts and beverages,NARDL,0.650391244871563,3.2290217,4.3222818,0.841688021240745,0.9603149471826498,No cointegration,99,,No cointegration,Asymptotic
+"Nut puree, nut butter and nut pastes",NARDL,4.376642847920971,3.2290217,4.3222818,0.00896359396924451,0.04664272702489958,Cointegration,99,Inconclusive,Inconclusive,Sample-specific
+"Offal, blood and other parts of slaughtered animals",NARDL,2.093244498953061,3.2290217,4.3222818,0.22622344741838196,0.5020861288156735,No cointegration,99,,No cointegration,Asymptotic
+Other food products n.e.c.,NARDL,1.968726044379503,3.2290217,4.3222818,0.26195332569744123,0.5495226026818328,No cointegration,99,,No cointegration,Asymptotic
+"Other fruits, fresh",NARDL,2.652725835439479,3.2290217,4.3222818,0.11104163274758194,0.31495686403292655,No cointegration,99,,No cointegration,Asymptotic
+Other milk and cream,NARDL,4.766488504512799,3.2290217,4.3222818,0.004894404657495799,0.028276555770330614,Cointegration,99,Inconclusive,Inconclusive,Sample-specific
+Other non-alcoholic beverages,NARDL,2.6052057429440136,3.2290217,4.3222818,0.11830073528277829,0.328791049490587,No cointegration,99,,No cointegration,Asymptotic
+"Other sugar, confectionery and dessert",NARDL,3.827146270423521,3.2290217,4.3222818,0.020695328223126697,0.09116854252392836,Inconclusive,99,No cointegration,No cointegration,Sample-specific
+"Other vegetables, fresh or chilled",NARDL,7.406674454343001,3.2290217,4.3222818,7.361527068872054e-05,0.0006859168950937855,Cointegration,99,Cointegration,Cointegration,Sample-specific
+Pulses,NARDL,3.0669286984813255,3.2290217,4.3222818,0.0627984671468671,0.210917137754981,No cointegration,99,,No cointegration,Asymptotic
+Ready-made food,NARDL,0.5402881216224248,3.2290217,4.3222818,0.8872622767144138,0.9743165898756606,No cointegration,99,,No cointegration,Asymptotic
+"Salt, condiments and sauces",NARDL,2.073956023577566,3.2290217,4.3222818,0.23149484472951376,0.5093550761071524,No cointegration,99,,No cointegration,Asymptotic
+Soft drinks,NARDL,1.3748000376352183,3.2290217,4.3222818,0.49247929078236163,0.7749446911915705,No cointegration,99,,No cointegration,Asymptotic
+"Spices, culinary herbs and seeds",NARDL,2.0567728150115516,3.2290217,4.3222818,0.23627148355376815,0.5158577715420883,No cointegration,99,,No cointegration,Asymptotic
+"Stone fruits and pome fruits, fresh",NARDL,1.1861938232139886,3.2290217,4.3222818,0.5816019697438358,0.8373127288361661,No cointegration,99,,No cointegration,Asymptotic
+Sugar,NARDL,4.686056003992492,3.2290217,4.3222818,0.005548627337946477,0.03139908561273641,Cointegration,99,Inconclusive,Inconclusive,Sample-specific
+Tea and other plant products for infusion,NARDL,1.1365829606784954,3.2290217,4.3222818,0.6059511562331348,0.8523206319819729,No cointegration,99,,No cointegration,Asymptotic
+Tubers,NARDL,3.2698277317613673,3.2290217,4.3222818,0.04702207154920346,0.17061933112556305,Inconclusive,99,No cointegration,No cointegration,Sample-specific
+Vegetable oils,NARDL,3.4247363398394626,3.2290217,4.3222818,0.037562577131171504,0.14422923737897908,Inconclusive,99,No cointegration,No cointegration,Sample-specific
+Vegetables and pulses ground and other preparations,NARDL,2.19026423401306,3.2290217,4.3222818,0.20113569398934594,0.4660795754325615,No cointegration,99,,No cointegration,Asymptotic
+"Vegetables, tubers, plantains and cooking bananas, frozen",NARDL,2.81080537067675,3.2290217,4.3222818,0.08965839635250339,0.2717288813833153,No cointegration,99,,No cointegration,Asymptotic
+Water,NARDL,2.095206207139189,3.2290217,4.3222818,0.2256926644654812,0.5013487291423067,No cointegration,99,,No cointegration,Asymptotic
+Yoghurt and similar products,NARDL,7.181472355416677,3.2290217,4.3222818,0.00010548653052744328,0.0009556751822907827,Cointegration,99,Cointegration,Cointegration,Sample-specific

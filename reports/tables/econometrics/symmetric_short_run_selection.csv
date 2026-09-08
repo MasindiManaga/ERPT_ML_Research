@@ -1,0 +1,47 @@
+SubclassDescription,Price_Lag,Exchange_Rate_Lag,BIC,Observations,Parameters,Successful_Candidates
+Baby food,1,0,344.647073923309,99,14,42
+Bread and bakery products,2,0,260.1382791423216,99,15,42
+Breakfast cereals,1,0,390.3874839691587,99,14,42
+Cereals,3,0,416.6811526503394,99,16,42
+Cheese,1,0,330.8069979268191,99,14,42
+"Chocolate, cocoa, and cocoa-based food products",1,0,311.93168993657974,99,14,42
+Coffee and coffee substitutes,3,0,418.8521864880522,99,16,42
+"Dates, figs and tropical fruits, fresh",1,0,607.9566534320752,99,14,42
+Eggs,2,0,454.5215768620711,99,15,42
+Fish,1,0,250.62755316767968,99,14,42
+Fish preparations,1,0,483.6954359021475,99,14,42
+Flour of cereals,1,0,434.5848893032041,99,14,42
+Fruit and nuts ground and other preparations,1,0,369.56357297190857,99,14,42
+Fruit and vegetable juices,1,0,368.07356918458544,99,14,42
+"Fruit-bearing vegetables, fresh or chilled",5,0,589.1419673392603,99,18,42
+"Ice, ice cream and sorbet",1,0,458.36575689043474,99,14,42
+"Leafy or stem vegetables, fresh or chilled",1,0,477.02525293203854,99,14,42
+"Macaroni, noodles, couscous and similar pasta products",3,0,379.335844942035,99,16,42
+Margarine and similar preparations,1,0,386.06982141919354,99,14,42
+"Meat , dried, salted, in brine or smoked",1,0,325.8205212577925,99,14,42
+"Meat, fresh, chilled or frozen",2,0,270.4363222587344,99,15,42
+"Meat, offal, blood and other parts of slaughtered animals preparations",1,0,342.21190029603787,99,14,42
+Milk,5,1,273.95365380696165,99,19,42
+Milk-based desserts and beverages,3,1,437.7933779082966,99,17,42
+"Nut puree, nut butter and nut pastes",1,1,427.37168818443894,99,15,42
+"Offal, blood and other parts of slaughtered animals",1,0,409.7818878210403,99,14,42
+Other food products n.e.c.,1,0,324.75721107126117,99,14,42
+"Other fruits, fresh",1,0,583.2690050815913,99,14,42
+Other milk and cream,3,0,331.4572376990079,99,16,42
+Other non-alcoholic beverages,1,0,281.4905875052764,99,14,42
+"Other sugar, confectionery and dessert",1,1,375.22757372379476,99,15,42
+"Other vegetables, fresh or chilled",4,0,494.93141137075565,99,17,42
+Pulses,2,0,370.5470481302127,99,15,42
+Ready-made food,1,0,427.8405167233457,99,14,42
+"Salt, condiments and sauces",1,0,323.78530918689387,99,14,42
+Soft drinks,1,0,336.0665368280238,99,14,42
+"Spices, culinary herbs and seeds",1,0,343.6401153513402,99,14,42
+"Stone fruits and pome fruits, fresh",1,0,438.4758723017667,99,14,42
+Sugar,1,0,360.8695598349876,99,14,42
+Tea and other plant products for infusion,1,0,368.19654200788705,99,14,42
+Tubers,1,0,598.6196530017991,99,14,42
+Vegetable oils,1,0,483.36264810530616,99,14,42
+Vegetables and pulses ground and other preparations,1,0,242.80931486307853,99,14,42
+"Vegetables, tubers, plantains and cooking bananas, frozen",1,0,369.8534947208854,99,14,42
+Water,1,1,295.0203120255788,99,15,42
+Yoghurt and similar products,1,1,328.9194452329544,99,15,42
