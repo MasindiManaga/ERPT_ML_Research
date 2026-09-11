@@ -1,0 +1,47 @@
+SubclassDescription,Conventional_P_Value,Conventional_Holm_P_Value,Conventional_FDR_P_Value,Conventional_Holm_Asymmetry,HAC_Asymmetry_P_Value,HAC_Asymmetry_Holm_P_Value,HAC_Asymmetry_FDR_P_Value,HAC_Asymmetry_Holm_Significant,HAC_Asymmetry_FDR_Significant,Conventional_Raw_Asymmetry,Conventional_FDR_Asymmetry,HAC_Raw_Asymmetry,Raw_Inference_Changed,Holm_Inference_Changed,FDR_Inference_Changed
+Pulses,0.0146304473015894,0.6730005758731128,0.5053957449849035,False,0.002565630430435926,0.11288773893918073,0.03933966660001753,False,True,True,False,True,False,False,True
+Bread and bakery products,0.0222807413868316,1.0,0.5053957449849035,False,0.001515226638517822,0.06970042537181981,0.03645629776716476,False,True,True,False,True,False,False,True
+"Stone fruits and pome fruits, fresh",0.0343025869010083,1.0,0.5053957449849035,False,0.0015850564246593373,0.07132753910967017,0.03645629776716476,False,True,True,False,True,False,False,True
+Vegetables and pulses ground and other preparations,0.048632818148621,1.0,0.5053957449849035,False,0.14019186937805198,1.0,0.5862569083082173,False,False,True,False,False,True,False,False
+"Other sugar, confectionery and dessert",0.0549343201070547,1.0,0.5053957449849035,False,0.04246187122789764,1.0,0.32554101274721525,False,False,False,False,True,True,False,False
+"Dates, figs and tropical fruits, fresh",0.1560932453002883,1.0,0.8996182763603038,False,0.021403924768797877,0.9203687650583088,0.2461451348411756,False,False,False,False,True,True,False,False
+"Spices, culinary herbs and seeds",0.1600475117878646,1.0,0.8996182763603038,False,0.09891839176575298,1.0,0.5055828912471819,False,False,False,False,False,False,False,False
+"Leafy or stem vegetables, fresh or chilled",0.1923037446812033,1.0,0.8996182763603038,False,0.27356507701192884,1.0,0.7257811258068982,False,False,False,False,False,False,False,False
+Yoghurt and similar products,0.1948230779334999,1.0,0.8996182763603038,False,0.036753511375750426,1.0,0.32554101274721525,False,False,False,False,True,True,False,False
+Tea and other plant products for infusion,0.2118045638623199,1.0,0.8996182763603038,False,0.14011316489078554,1.0,0.5862569083082173,False,False,False,False,False,False,False,False
+Fruit and vegetable juices,0.2480879906539761,1.0,0.8996182763603038,False,0.05524433335246677,1.0,0.3630341906019245,False,False,False,False,False,False,False,False
+Baby food,0.2770335152970765,1.0,0.8996182763603038,False,0.25733562436695695,1.0,0.7257811258068982,False,False,False,False,False,False,False,False
+"Nut puree, nut butter and nut pastes",0.2984947041224051,1.0,0.8996182763603038,False,0.07262381442924361,1.0,0.41758693296815075,False,False,False,False,False,False,False,False
+Other food products n.e.c.,0.3098425603811191,1.0,0.8996182763603038,False,0.2840013100983515,1.0,0.7257811258068982,False,False,False,False,False,False,False,False
+Water,0.3267477809663502,1.0,0.8996182763603038,False,0.36354077079309,1.0,0.7819341888021643,False,False,False,False,False,False,False,False
+Soft drinks,0.3605472987011388,1.0,0.8996182763603038,False,0.2689680042433111,1.0,0.7257811258068982,False,False,False,False,False,False,False,False
+Flour of cereals,0.3657490148436281,1.0,0.8996182763603038,False,0.20046922068510237,1.0,0.7257811258068982,False,False,False,False,False,False,False,False
+"Meat, fresh, chilled or frozen",0.3878533418934943,1.0,0.8996182763603038,False,0.23517045174687923,1.0,0.7257811258068982,False,False,False,False,False,False,False,False
+"Ice, ice cream and sorbet",0.4226250028848595,1.0,0.8996182763603038,False,0.5218961360722189,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Fish preparations,0.4348951582814781,1.0,0.8996182763603038,False,0.2624020256224285,1.0,0.7257811258068982,False,False,False,False,False,False,False,False
+Fish,0.5086991068074955,1.0,0.8996182763603038,False,0.4887446270347675,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Other milk and cream,0.5193789028530957,1.0,0.8996182763603038,False,0.3711047742059715,1.0,0.7819341888021643,False,False,False,False,False,False,False,False
+Cheese,0.5363290086336842,1.0,0.8996182763603038,False,0.3142734897277709,1.0,0.7608726593409191,False,False,False,False,False,False,False,False
+"Fruit-bearing vegetables, fresh or chilled",0.5642832440250903,1.0,0.8996182763603038,False,0.6082679506678088,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+"Meat , dried, salted, in brine or smoked",0.5763865039928541,1.0,0.8996182763603038,False,0.47600781416759885,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Other non-alcoholic beverages,0.5777154535235229,1.0,0.8996182763603038,False,0.4715951109938701,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Ready-made food,0.6225102068018268,1.0,0.8996182763603038,False,0.6404512099023089,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Fruit and nuts ground and other preparations,0.6365778440571307,1.0,0.8996182763603038,False,0.6408759653881442,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Milk-based desserts and beverages,0.6449519702052877,1.0,0.8996182763603038,False,0.6767250261141708,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Margarine and similar preparations,0.6603628897438609,1.0,0.8996182763603038,False,0.37396852507929595,1.0,0.7819341888021643,False,False,False,False,False,False,False,False
+"Meat, offal, blood and other parts of slaughtered animals preparations",0.6787355961343184,1.0,0.8996182763603038,False,0.5948952378828127,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+"Chocolate, cocoa, and cocoa-based food products",0.6858893448291612,1.0,0.8996182763603038,False,0.7313546897123286,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+"Macaroni, noodles, couscous and similar pasta products",0.6968071586058588,1.0,0.8996182763603038,False,0.40305007426497935,1.0,0.8061001485299587,False,False,False,False,False,False,False,False
+"Offal, blood and other parts of slaughtered animals",0.6973243641189005,1.0,0.8996182763603038,False,0.5561967733811898,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+"Salt, condiments and sauces",0.7018477197936517,1.0,0.8996182763603038,False,0.6848135657741685,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Coffee and coffee substitutes,0.7164320570440621,1.0,0.8996182763603038,False,0.5356450394318334,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Cereals,0.7236060048985052,1.0,0.8996182763603038,False,0.7074681301037775,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Vegetable oils,0.8223189326428525,1.0,0.953056196394287,False,0.6935145653046435,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Eggs,0.830051140994008,1.0,0.953056196394287,False,0.7277186931155455,1.0,0.8626234801735159,False,False,False,False,False,False,False,False
+Milk,0.8649125325728063,1.0,0.953056196394287,False,0.7610328870033527,1.0,0.8751878200538556,False,False,False,False,False,False,False,False
+"Other fruits, fresh",0.9013567691828988,1.0,0.953056196394287,False,0.8679611733073974,1.0,0.9432260267305058,False,False,False,False,False,False,False,False
+"Other vegetables, fresh or chilled",0.9042172503122275,1.0,0.953056196394287,False,0.9227211131059296,1.0,0.9432260267305058,False,False,False,False,False,False,False,False
+Breakfast cereals,0.9044976119013493,1.0,0.953056196394287,False,0.9212908919535708,1.0,0.9432260267305058,False,False,False,False,False,False,False,False
+Sugar,0.9116189704641006,1.0,0.953056196394287,False,0.8736501374598078,1.0,0.9432260267305058,False,False,False,False,False,False,False,False
+"Vegetables, tubers, plantains and cooking bananas, frozen",0.9480211356706864,1.0,0.9690882720189238,False,0.912102936425342,1.0,0.9432260267305058,False,False,False,False,False,False,False,False
+Tubers,0.9936165152921144,1.0,0.9936165152921144,False,0.9915800739574594,1.0,0.9915800739574594,False,False,False,False,False,False,False,False
