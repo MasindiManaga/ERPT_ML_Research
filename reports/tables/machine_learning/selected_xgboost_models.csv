@@ -1,0 +1,3 @@
+Model,Representation,N_Estimators,Min_Child_Weight,Reg_Lambda,colsample_bytree,learning_rate,max_depth,subsample,MAE,RMSE,R2,Directional_Accuracy_Pct
+XGBoost,Asymmetric,300,3,0.5,1.0,0.08,4,0.8,1.0589288072545626,1.7282671419631175,0.17151760733956534,63.40579710144928
+XGBoost,Symmetric,300,3,0.5,1.0,0.08,4,0.8,1.0466773395589861,1.7220696130178172,0.17744879390563284,63.949275362318836

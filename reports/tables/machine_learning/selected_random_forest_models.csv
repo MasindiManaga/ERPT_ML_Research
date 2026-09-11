@@ -1,0 +1,3 @@
+Model,Representation,N_Estimators,max_depth,max_features,min_samples_leaf,MAE,RMSE,R2,Directional_Accuracy_Pct
+Random Forest,Asymmetric,300,16.0,sqrt,1,1.0773493963142866,1.796596254817787,0.1047125086763464,63.949275362318836
+Random Forest,Symmetric,300,,sqrt,1,1.0591132080681305,1.7594458183378032,0.14135562050544892,64.85507246376811

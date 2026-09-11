@@ -1,0 +1,13 @@
+Check,Passed
+Current target excluded from features,True
+Date excluded from features,True
+Split label excluded from features,True
+Descriptive metadata excluded,True
+Exchange-rate predictors are lagged,True
+Development ends before test period,True
+Test targets excluded from predictions,True
+All fitted model variants present,True
+Every model has 552 predictions,True
+Prediction row count is correct,True
+All predictions are finite,True
+No duplicate prediction records,True
