@@ -1,0 +1,9 @@
+Measure,Value
+Bounds-supported models,9
+Valid long-run models,8
+Models passing core diagnostics,9
+Models with normal residuals,5
+Models with non-normal residuals,4
+Holm-supported long-run asymmetry,2
+Holm-supported short-run asymmetry,0
+FDR-supported short-run asymmetry,3
