@@ -146,12 +146,21 @@ The findings support a complementary, category-specific modelling strategy. Econ
 ```text
 ERPT_ML_Research/
 |-- data/
-|   |-- external/                 
-|   |-- processed/                
-|   `-- raw/                      
+|   |-- external/                 # External data sources
+|   |-- processed/                # Generated modelling datasets
+|   `-- raw/                      # Original CPI and exchange-rate data
+|
+|-- docs/
+|   |-- research_overview.md
+|   |-- methodology.md
+|   |-- data_dictionary.md
+|   |-- model_specifications.md
+|   |-- reproducibility_guide.md
+|   |-- results_summary.md
+|   `-- limitations_and_future_work.md
 |
 |-- models/
-|   `-- machine_learning/         
+|   `-- machine_learning/         # Locally generated fitted pipelines
 |
 |-- notebooks/
 |   |-- 01_Data_Acquisition_and_Understanding.ipynb
@@ -166,24 +175,47 @@ ERPT_ML_Research/
 |
 |-- reports/
 |   |-- archive/
-|   |   `-- var/                  
+|   |   `-- var/                  # Legacy VAR outputs
 |   |
 |   |-- figures/
-|   |   |-- econometrics/        
-|   |   `-- model_evaluation/     
+|   |   |-- econometrics/
+|   |   `-- model_evaluation/
 |   |
 |   `-- tables/
-|       |-- econometrics/         
-|       |-- machine_learning/     
-|       `-- model_evaluation/     
+|       |-- econometrics/
+|       |-- machine_learning/
+|       `-- model_evaluation/
 |
-|-- src/                          
-|-- tests/                       
+|-- src/                          # Reusable source-code directory
+|-- tests/                        # Project-testing directory
 |-- .gitignore
 |-- LICENSE
 |-- README.md
 `-- requirements.txt
 ```
+---
+
+## Project Documentation
+
+Detailed technical documentation is available under the [`docs/`](docs/) directory.
+
+| Document | Description |
+|---|---|
+| [Research Overview](docs/research_overview.md) | Research background, problem, aim, objectives, scope and contribution |
+| [Methodology](docs/methodology.md) | Data preparation, feature engineering, modelling and evaluation workflow |
+| [Data Dictionary](docs/data_dictionary.md) | Variable definitions, units, transformations and sign conventions |
+| [Model Specifications](docs/model_specifications.md) | Econometric structures, lag selection, machine-learning features and hyperparameters |
+| [Reproducibility Guide](docs/reproducibility_guide.md) | Environment setup, required source files, notebook order and validation checks |
+| [Results Summary](docs/results_summary.md) | Main econometric, forecasting, category-level and statistical findings |
+| [Limitations and Future Work](docs/limitations_and_future_work.md) | Study limitations, interpretation boundaries and recommended extensions |
+
+The documentation complements the notebooks:
+
+- the notebooks contain the executable analysis;
+- the `docs/` directory explains the research design and findings;
+- the `reports/` directory contains validated tables and figures; and
+- the README provides the entry point to the complete project.
+
 ---
 
 ## Notebook Execution Order
