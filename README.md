@@ -185,13 +185,12 @@ ERPT_ML_Research/
 |       |-- econometrics/
 |       |-- machine_learning/
 |       `-- model_evaluation/
-|
-|-- src/                          
-|-- tests/                      
+|                     
 |-- .gitignore
 |-- README.md
 `-- requirements.txt
 ```
+
 ---
 
 ## Project Documentation
