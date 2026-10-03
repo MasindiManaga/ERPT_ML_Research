@@ -1,0 +1,5 @@
+Comparison,Symmetric_Variant,Asymmetric_Variant,Food_Subclasses,Median_Loss_Difference,Subclasses_Symmetric_Better,Subclasses_Asymmetric_Better,Tied_Subclasses,Wilcoxon_Statistic,P_Value,Holm_Adjusted_P_Value,Significant_After_Holm
+Ridge,Ridge | Symmetric,Ridge | Asymmetric,46,0.005703125100499293,35,11,0,223.0,0.0003408411147631796,0.0013633644590527183,True
+XGBoost,XGBoost | Symmetric,XGBoost | Asymmetric,46,0.04137395109325499,30,16,0,304.0,0.009014598991029743,0.02704379697308923,True
+Random Forest,Random Forest | Symmetric,Random Forest | Asymmetric,46,-0.0001328128437552284,23,23,0,481.0,0.522711255983694,1.0,False
+ARDL versus NARDL,ARDL | Symmetric,NARDL | Asymmetric,46,-0.002574813237070178,20,26,0,537.0,0.9741070958191926,1.0,False

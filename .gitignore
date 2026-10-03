@@ -11,8 +11,9 @@ __pycache__/
 # VS Code
 .vscode/
 
-# Trained models
-models/
+# Trained model artifacts
+models/*
+!models/.gitkeep
 
 # OS files
 .DS_Store

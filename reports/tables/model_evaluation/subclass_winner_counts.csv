@@ -1,0 +1,11 @@
+Approach,Model,Representation,Food_Subclasses,Forecast_Variant
+Machine learning,Random Forest,Symmetric,8,Random Forest — Symmetric
+Econometric,VAR,Bivariate system,8,VAR — Bivariate system
+Machine learning,XGBoost,Symmetric,7,XGBoost — Symmetric
+Benchmark,Persistence,Lag-1 benchmark,5,Persistence — Lag-1 benchmark
+Econometric,ARDL,Symmetric,4,ARDL — Symmetric
+Econometric,NARDL,Asymmetric,4,NARDL — Asymmetric
+Machine learning,Ridge,Symmetric,3,Ridge — Symmetric
+Machine learning,XGBoost,Asymmetric,3,XGBoost — Asymmetric
+Machine learning,Random Forest,Asymmetric,2,Random Forest — Asymmetric
+Machine learning,Ridge,Asymmetric,2,Ridge — Asymmetric

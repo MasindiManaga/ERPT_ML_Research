@@ -1,0 +1,10 @@
+Evidence_Area,Main_Result,Interpretation
+Long-run model validity,Nine bounds-supported models; eight valid long-run models,Long-run ERPT evidence exists for a limited set of food subclasses
+Long-run asymmetry,Corrected asymmetry for fruit-bearing vegetables and yoghurt,Long-run asymmetry is category-specific
+Short-run asymmetry,Zero Holm-supported and three FDR-supported subclasses,Short-run evidence is limited and sensitive to the correction method
+Lowest pooled RMSE,ARDL: RMSE = 1.841,ARDL controlled large forecast errors most effectively
+Lowest MAE,Symmetric XGBoost: MAE = 1.061,XGBoost produced the smallest typical absolute error
+Highest directional accuracy,Symmetric Random Forest: 63.41%,Random Forest predicted the direction of price changes most accurately
+Subclass winners,Machine learning: 25; econometric: 16; persistence: 5,Machine learning added substantial category-specific forecasting value
+Predictive asymmetry,No general asymmetric advantage; symmetric XGBoost significantly better,Asymmetric predictors should be evaluated by model and food category
+Overall conclusion,No model dominated every evaluation criterion,Econometric and machine-learning approaches are complementary
