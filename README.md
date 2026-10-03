@@ -146,9 +146,9 @@ The findings support a complementary, category-specific modelling strategy. Econ
 ```text
 ERPT_ML_Research/
 |-- data/
-|   |-- external/                 # External data sources
-|   |-- processed/                # Generated modelling datasets
-|   `-- raw/                      # Original CPI and exchange-rate data
+|   |-- external/                 
+|   |-- processed/                
+|   `-- raw/                      
 |
 |-- docs/
 |   |-- research_overview.md
@@ -160,7 +160,7 @@ ERPT_ML_Research/
 |   `-- limitations_and_future_work.md
 |
 |-- models/
-|   `-- machine_learning/         # Locally generated fitted pipelines
+|   `-- machine_learning/         
 |
 |-- notebooks/
 |   |-- 01_Data_Acquisition_and_Understanding.ipynb
@@ -175,7 +175,7 @@ ERPT_ML_Research/
 |
 |-- reports/
 |   |-- archive/
-|   |   `-- var/                  # Legacy VAR outputs
+|   |   `-- var/                 
 |   |
 |   |-- figures/
 |   |   |-- econometrics/
@@ -186,8 +186,8 @@ ERPT_ML_Research/
 |       |-- machine_learning/
 |       `-- model_evaluation/
 |
-|-- src/                          # Reusable source-code directory
-|-- tests/                        # Project-testing directory
+|-- src/                          
+|-- tests/                      
 |-- .gitignore
 |-- LICENSE
 |-- README.md
