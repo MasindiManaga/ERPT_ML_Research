@@ -1,7 +1,9 @@
 # Asymmetric Exchange Rate Pass-Through Across Food Price Categories in South Africa : A Comparison of Econometric and Machine Learning Models
 
 **Author**: Masindi Managa
+
 **Institution**: Eduvos
+
 **Programme**: BSc Honours in Information Technology (Data Science)
 
 ---
