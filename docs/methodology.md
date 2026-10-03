@@ -152,13 +152,9 @@ Only lagged inflation values are used as predictors. The current-period target i
 
 Month-of-year seasonality is represented using cyclical sine and cosine transformations:
 
-\[
-MonthSin_t = \sin\left(\frac{2\pi Month_t}{12}\right)
-\]
+MonthSin_t = sin((2 * pi * Month_t) / 12)
 
-\[
-MonthCos_t = \cos\left(\frac{2\pi Month_t}{12}\right)
-\]
+MonthCos_t = cos((2 * pi * Month_t) / 12)
 
 These transformations preserve the cyclical relationship between December and January.
 
@@ -296,9 +292,7 @@ Ridge Regression provides a regularised linear benchmark.
 
 Seven alpha values are evaluated for each feature representation:
 
-\[
-0.001,\ 0.01,\ 0.1,\ 1,\ 10,\ 100,\ 1000
-\]
+0.001, 0.01, 0.1, 1, 10, 100, 1000
 
 The final symmetric and asymmetric Ridge specifications both use an alpha of 100, selected using validation RMSE.
 
@@ -379,22 +373,15 @@ Forecast accuracy is assessed using the following measures.
 
 #### Mean Absolute Error
 
-\[
-MAE = \frac{1}{n}\sum_{i=1}^{n}|y_i-\hat{y}_i|
-\]
+MAE = (1 / n) * sum(|y_i - y_hat_i|)
 
 #### Root Mean Squared Error
 
-\[
-RMSE = \sqrt{\frac{1}{n}\sum_{i=1}^{n}(y_i-\hat{y}_i)^2}
-\]
+RMSE = sqrt((1 / n) * sum((y_i - y_hat_i)^2))
 
 #### Coefficient of determination
 
-\[
-R^2 = 1-\frac{\sum_{i=1}^{n}(y_i-\hat{y}_i)^2}
-{\sum_{i=1}^{n}(y_i-\bar{y})^2}
-\]
+R^2 = 1 - (sum((y_i - y_hat_i)^2) / sum((y_i - y_bar)^2))
 
 #### Directional accuracy
 
@@ -402,9 +389,7 @@ Directional accuracy measures the percentage of observations for which the predi
 
 #### Mean bias
 
-\[
-Bias = \frac{1}{n}\sum_{i=1}^{n}(\hat{y}_i-y_i)
-\]
+Bias = (1 / n) * sum(y_hat_i - y_i)
 
 Positive bias indicates average overprediction, while negative bias indicates average underprediction.
 
