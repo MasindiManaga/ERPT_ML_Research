@@ -112,6 +112,7 @@ Models were evaluated using:
 
 - subclass-level Wilcoxon signed-rank robustness tests.
 
+---
 ## Key Findings
 
 - Nine models had bounds-test evidence of a long-run relationship, of which eight satisfied the final long-run validity requirements.
@@ -137,6 +138,8 @@ Models were evaluated using:
 - Symmetric XGBoost significantly outperformed asymmetric XGBoost after multiple-testing correction.
 
 The findings support a complementary, category-specific modelling strategy. Econometric models provide interpretable long-run evidence and strong pooled RMSE performance, while machine-learning models add forecasting value for many individual food categories.
+
+---
 
 ## Repository Structure
 
@@ -181,6 +184,7 @@ ERPT_ML_Research/
 |-- README.md
 `-- requirements.txt
 ```
+---
 
 ## Notebook Execution Order
 
@@ -204,6 +208,8 @@ Run the notebooks in numerical order because later notebooks consume datasets an
 
 9. Machine-learning evaluation and comparison
 
+---
+
 ## Installation
 
 Create and activate a virtual environment:
@@ -221,6 +227,8 @@ Launch JupyterLab:
 jupyter lab
 
 The notebooks can also be executed through Visual Studio Code using the project virtual environment as the selected Jupyter kernel.
+
+---
 
 ## Generated Outputs
 
@@ -241,6 +249,8 @@ Final outputs are organised as follows:
 The trained pipeline files are excluded from Git because they are generated artifacts and some exceed GitHub’s file-size limit. They can be reproduced by running Notebook 8.
 
 The legacy VAR files under reports/archive/var/ are retained for traceability but are not used in the final leakage-safe forecast comparison.
+
+---
 
 ## Reproducibility
 
