@@ -111,15 +111,13 @@ Exchange-rate changes are decomposed into depreciation and appreciation componen
 
 The decomposition satisfies:
 
-\[
-\Delta ER_t = DEP_t + APP_t
-\]
+ΔER_t = DEP_t + APP_t
 
 where:
 
-- \(DEP_t = \max(\Delta ER_t, 0)\); and
-- \(APP_t = \min(\Delta ER_t, 0)\).
-
+- DEP_t = max(ΔER_t, 0)
+- APP_t = min(ΔER_t, 0)
+  
 Depreciation shocks are therefore non-negative, while appreciation shocks are non-positive.
 
 For machine-learning models, appreciation movements are represented by their positive magnitudes to provide a consistent feature scale. Depreciation and appreciation features are lagged separately.
