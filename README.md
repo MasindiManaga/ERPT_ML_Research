@@ -189,7 +189,6 @@ ERPT_ML_Research/
 |-- src/                          
 |-- tests/                      
 |-- .gitignore
-|-- LICENSE
 |-- README.md
 `-- requirements.txt
 ```
