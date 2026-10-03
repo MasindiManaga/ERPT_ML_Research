@@ -138,12 +138,16 @@ The findings support a complementary, category-specific modelling strategy. Econ
 
 ## Repository Structure
 
+```text
 ERPT_ML_Research/
 |-- data/
-|   |-- external/
-|   |-- processed/
-|   `-- raw/
+|   |-- external/                 
+|   |-- processed/                
+|   `-- raw/                      
+|
 |-- models/
+|   `-- machine_learning/         
+|
 |-- notebooks/
 |   |-- 01_Data_Acquisition_and_Understanding.ipynb
 |   |-- 02_Data_Preparation.ipynb
@@ -154,16 +158,27 @@ ERPT_ML_Research/
 |   |-- 07_Econometric_Results_and_Diagnostics.ipynb
 |   |-- 08_Machine_Learning_Modelling.ipynb
 |   `-- 09_Machine_Learning_Evaluation_and_Comparison.ipynb
+|
 |-- reports/
 |   |-- archive/
+|   |   `-- var/                  
+|   |
 |   |-- figures/
+|   |   |-- econometrics/        
+|   |   `-- model_evaluation/     
+|   |
 |   `-- tables/
-|-- src/
-|-- tests/
+|       |-- econometrics/         
+|       |-- machine_learning/     
+|       `-- model_evaluation/     
+|
+|-- src/                          
+|-- tests/                       
 |-- .gitignore
 |-- LICENSE
 |-- README.md
 `-- requirements.txt
+```
 
 ## Notebook Execution Order
 
